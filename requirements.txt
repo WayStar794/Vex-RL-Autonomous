@@ -1,0 +1,6 @@
+pyserial            # For V5 communication (future)
+numpy               # Core numerical library
+opencv-python       # For computer vision (future)
+torch               # PyTorch deep learning framework
+stable-baselines3[extra] # Reinforcement Learning algorithms
+tensorboard         # For visualizing RL training progress
